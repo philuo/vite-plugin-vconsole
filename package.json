@@ -1,0 +1,29 @@
+{
+  "name": "@yuo/vite-plugin-vconsole",
+  "version": "1.0.1",
+  "description": "@yuo/vite plugin vconsole",
+  "main": "dist/index.js",
+  "files": [
+    "dist",
+    "README.md",
+    "LICENSE"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vadxq/vite-plugin-vconsole.git"
+  },
+  "keywords": [
+    "@yuo/vite",
+    "vite",
+    "vconsole"
+  ],
+  "author": "Perfumere",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vadxq/vite-plugin-vconsole/issues"
+  },
+  "homepage": "https://github.com/vadxq/vite-plugin-vconsole#readme",
+  "dependencies": {
+    "@yuo/vite-plugin-vconsole": "^1.0.1"
+  }
+}
